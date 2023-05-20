@@ -1,0 +1,82 @@
+<html>
+<body>
+<table border="1">
+<tr>
+<th>Exam <br> Serial</th>
+<th>Time</th>
+<th>Class</th>
+<th>Wed 22/3</th>
+<th>Thurs 23/3</th>
+<th>Fri 24/3</th>
+<th>Mon 27/3</th>
+<th>Tues 28/3</th>
+<th>Wed 29/3</th>
+<th>Thurs 30/3</th>
+</tr>
+
+<tr>
+<td><h2>1ST&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<h2></td>
+<td rowspan="5" >9-10am&nbsp;&nbsp;&nbsp;</td>
+<td rowspan="5" >JSS1 <br><br> JSS 2 <br><br> JSS 3</td>
+<td rowspan="3"  >ENG LANG</td>
+<td rowspan="3"  >BST 1</td>
+<td rowspan="3"  >NVE 1</td>
+<td rowspan="3"  >MATHS</td>
+<td rowspan="3"  >HIST</td>
+<td rowspan="3"  >BST2</td>
+<td rowspan="3"  >CCA</td>
+
+</tr>
+<table border="1">
+<tr>
+<td><h2>2ND &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<h2></td>
+<td>
+<table>
+10:30am-<br>11:00am&nbsp;
+</table>
+<table><fieldset>
+
+10:30am-<br>11:00am&nbsp;
+
+</table>
+</td>
+<td rowspan="3" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BREAK TIME&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ &nbsp;&nbsp;&nbsp;&nbsp;</td>
+
+
+
+
+
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+</html>
