@@ -1,0 +1,136 @@
+
+.intro {
+    background-image: url("./images/intro_img.jpg");
+    height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.intro .navbar .nav-link .btn{
+    background: white;
+    color: black;
+}
+
+.intro .title {
+    /* margin-top: 12rem;
+    margin-left: 9rem; */
+    position: relative;
+    top: 30%;
+    left: 10%;
+}
+
+.intro .head {
+    color: white;
+}
+
+.intro .head .template {
+    color: white;
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.perks .edit {
+    background: white;
+    padding: 5rem 5rem 5rem 12rem;
+}
+
+.perks .edit h3 {
+    color: cornflowerblue;
+}
+
+.perks .resp {
+    background: cornflowerblue;
+    padding: 5rem 5rem 5rem 6rem;
+    color: white;
+}
+
+/* solutions starts here */
+.solutions {
+    padding: 3rem 0;
+}
+    
+
+.solutions .header {
+    text-align: center;
+    padding: 3rem 0;
+}
+
+.solutions .header h5 {
+    font-size: .9rem;
+}
+
+.solutions .header h4 {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.solutions .details {
+    padding: 2rem 0;
+}
+
+.solutions .details .content{
+    text-align: center;
+}
+
+.solutions .details .content h3{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.solutions .details .content p{
+    color: grey;
+}
+
+/* solutions section ends here */
+
+/* blog section begins */
+.blog{
+    padding: 3rem 0;
+}
+
+.blog .post {
+    padding: 15rem 2rem 2rem;
+    border-radius: 1rem;
+    color: white;
+}
+
+.blog .post .btn {
+    color: #fff;
+    padding-left: 0;
+    font-weight: bold;
+}
+
+.blog .post:nth-child(1) {
+    background-image: url("./images/post-1.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    margin-right: 1.5rem;
+    /* margin-bottom: 2rem; */
+}
+
+.blog .post:nth-child(2) {
+    background-image: url("./images/post-3.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-right: 1.5rem;
+}
+
+.blog .post:nth-child(3) {
+    background-repeat: no-repeat;
+    background-image: url("./images/post-2.svg");
+    background-size: cover;
+}
+
+/* .blog section ends */
+
+.partners {
+    padding: 3rem 0;
+}
+
+/* success section starts */
+.success {
+    padding: 3rem 0;
+    background-color: darkblue;
+}

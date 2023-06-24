@@ -1,0 +1,17 @@
+
+.title {
+    background-color: ;
+  }
+  .title .navbar .navbar-brand {
+    color: blue;
+    font-weight: bold;
+  }
+  .title .navbar .nav-link {
+    color: rgb(111, 109, 109);
+  }
+  .title .navbar .btn {
+
+    background: blue;
+    color: white
+  }
+   /*
