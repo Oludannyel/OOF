@@ -1,0 +1,81 @@
+.intro {
+    padding: 5rem 0;
+}
+
+.intro .text .tag {
+    color: palevioletred;
+    margin-bottom: 3rem;
+    font-size: 1.5rem;
+}
+
+.intro .text .title {
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.intro .text .desc {
+    font-size: 1.3rem;
+    margin-bottom: 3rem;
+}
+
+.intro .text .cta {
+    background-color: rgba(255,119,101);
+    color: #fff;
+    padding: .75rem 1.75rem;
+    font-weight: bold;
+}
+/* intro ends */
+
+/* join section starts */
+.join {
+    background-color: #f9efe6;
+    padding: 5rem 0;
+}
+
+.join .why .title{
+    font-weight: bold;
+    font-size: 2.2rem;
+    margin-bottom: 2rem;
+}
+
+.join .why .cta{
+    color: #fff;
+    text-transform: uppercase;
+    background-color: palevioletred;
+    margin-bottom: 3rem;
+}
+
+.join .why .desc{
+    font-size: 1.2rem;
+}
+
+/* join section ends */
+
+
+/* module section starts */
+.module {
+    padding: 3rem 0;
+}
+
+.module .features .title{
+    font-size: 2rem;
+    margin-bottom: 3rem;
+    font-weight: bolder;
+}
+
+.module .features ul{
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+.module .features .list{
+    display: block;
+    border-bottom: .1rem dotted gainsboro;
+    margin-top: 2rem;
+}
+
+.module .features .list .head{
+    font-size: 1.1rem;
+    font-weight: bold;
+}
